@@ -23,3 +23,14 @@ DELL@DESKTOP-66P2659 MINGW64 ~/Desktop/code_pull/demo-repo (function)""")
 if __name__ == "__main__":
     for x in range(11,33):
         print("I am a coder")
+
+    print("""
+    DELL@DESKTOP-66P2659 MINGW64 ~/Desktop/code_pull/demo-repo (master)
+    $ git branch function
+
+    DELL@DESKTOP-66P2659 MINGW64 ~/Desktop/code_pull/demo-repo (master)
+    $ git switch function
+    Switched to branch 'function'
+
+    DELL@DESKTOP-66P2659 MINGW64 ~/Desktop/code_pull/demo-repo (function)
+""")
